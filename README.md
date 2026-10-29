@@ -6,8 +6,6 @@ Zepto is an Indian quick-commerce grocery delivery service. This project takes t
 
 **Tools:** PostgreSQL 18, pgAdmin 4
 
-**Credit:** built on [Amlan Mohanty's Zepto SQL project](https://github.com/amlanmohanty/zepto-SQL-data-analysis-project), which provides the schema and the eight queries; the dataset was originally published on Kaggle. The findings, cross-query validation, data quality investigation, recommendations and limitations below are my own work.
-
 ---
 
 ## Key Findings
